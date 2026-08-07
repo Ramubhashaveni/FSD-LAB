@@ -1,0 +1,2 @@
+Welcome to Full Stack Development Lab.
+This file is read asynchronously using Node.js.

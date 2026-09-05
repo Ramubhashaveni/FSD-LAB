@@ -1,0 +1,3 @@
+Welcome to Node.js Streams.
+This data is written using a Writable Stream.
+Streams are useful for handling large amounts of data.
